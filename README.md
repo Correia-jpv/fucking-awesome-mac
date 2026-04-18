@@ -1398,6 +1398,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * <b><code>&nbsp;28846⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;912🍴</code></b> [Rectangle-app](https://github.com/rxhanson/Rectangle)) - Rectangle is a window management app based on Spectacle, written in Swift. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
 * <b><code>&nbsp;&nbsp;5547⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;364🍴</code></b> [ShiftIt](https://github.com/fikovnik/ShiftIt)) - Managing window size and position in OSX. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 * 🌎 [ShortcutCycle](shortcutcycle.vercel.app/) - Switch between context-based app groups with a single hotkey. [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
+* 🌎 [SnapHotkey](snaphotkey.com) - Map keyboard shortcuts directly to Mac apps — one key per app, no Cmd+Tab cycling.
 * [Sidebar](http://sidebarapp.net/) - The modern Dock replacement for your Mac.
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Powerful, keyboard-centric window management.
 * <b><code>&nbsp;&nbsp;7837⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;508🍴</code></b> [Slate](https://github.com/jigish/slate)) - Scriptable window manager configured with JavaScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
