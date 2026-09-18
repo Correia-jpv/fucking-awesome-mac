@@ -580,6 +580,7 @@ Awesome Mac
 * [Adobe XD](http://www.adobe.com/products/experience-design.html) - 웹 및 모바일 앱 디자인 및 프로토타이핑 도구.
 * [Axure RP](http://www.axure.com) - 프로토타입, 사양 및 다이어그램 도구.
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 와이어프레임 도구.
+* [BoardEject](https://boardeject.dev) - Apple Freeform 선택 영역을 편집 가능한 Excalidraw 파일로 내보내고 검증된 로컬 아카이브를 만드는 오픈소스 유틸리티. [![Open-Source Software][OSS Icon]](https://github.com/royalpinto007/boardeject) ![Freeware][Freeware Icon]
 * [Flinto](https://www.flinto.com/) - 상호작용 가능한 프로토타입 제작.
 * [Framer](http://framerjs.com/) - 상호작용 프로토타이핑 도구.
 * [MindNode](https://mindnode.com/) - 직관적인 마인드맵 소프트웨어.
