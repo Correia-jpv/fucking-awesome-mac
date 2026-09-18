@@ -505,6 +505,7 @@ Awesome Mac
 * [SimpleMind](https://simplemind.eu/) - 超小体积的思维导图工具。
 * [macSVG](https://macsvg.org/) - 设计 HTML5 SVG 和动画. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [GitMind](https://gitmind.cn/) - 新一代免费思维导图协作软件，灵感流淌、思想共创，激发思想流动，让智慧自然涌现。![Freeware][Freeware Icon]
+* [BoardEject](https://boardeject.dev) - 将 Apple Freeform 选区导出为可编辑的 Excalidraw 文件并创建可验证本地存档的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/royalpinto007/boardeject) ![Freeware][Freeware Icon]
 
 ### 作图工具
 
