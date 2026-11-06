@@ -1718,6 +1718,7 @@ Awesome Mac
 * [IntelliDock](https://mightymac.app/intellidock/) - Dockを自動的に非表示に。
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - macOS用の軽量ウィンドウボーダーシステム。 [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
 * [KiwiDesk](https://kiwidesk.kiwicanopy.com/) - 設定ファイル不要ですぐに使え、ネイティブの設定アプリを備え、アプリ内で自動アップデートするタイリングウィンドウマネージャー。 ![Freeware][Freeware Icon]
+* [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - 外部ディスプレイを再接続した際、ウィンドウを元のモニター・操作スペース（Space）・位置に自動復元し、内蔵ディスプレイの周囲光に合わせた外部モニター輝度同期にも対応するメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/tumingke0/LayoutKeeper) ![Freeware][Freeware Icon]
 * [Loop](https://github.com/MrKai77/Loop) - エレガントなウィンドウ管理。 [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop)
 * [LumaRing](https://github.com/potatoQi/LumaRing) - 放射状メニューでアプリ、ウィンドウ、ブラウザーのタブを切り替えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/potatoQi/LumaRing) ![Freeware][Freeware Icon]
 * [MacsyZones](https://macsyzones.com/) - ウィンドウを簡単に整理して生産性を向上。 [![Open-Source Software][OSS Icon]](https://github.com/rohanrhu/MacsyZones) ![Freeware][Freeware Icon]
